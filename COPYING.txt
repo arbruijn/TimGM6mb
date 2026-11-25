@@ -1,7 +1,6 @@
 Copyright: 2004 Tim Brechbill <https://www.timbrechbill.com>
-  2010 David Bolton <davidkbolton@gmail.com>
-Comment:
- Thomas • Dec 6, 2009 - 16:51
+
+Comment from David Bolton to Thomas • Dec 6, 2009 - 16:51
  Tim came back to me with some more information about the soundfont: "I created
  some of the samples myself and all others are either public domain or fall
  under the terms of the GNU General Public License." For me this is enough to
